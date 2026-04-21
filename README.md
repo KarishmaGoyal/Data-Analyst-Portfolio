@@ -39,17 +39,16 @@ This capstone project analyzes real-world developer survey data to identify:
 ![Dashboard](Dashboard.png)
 
 ### 🔹 Tab 2: Future Technology Trends
-![Dashboard](Dashboard 2.png)
+![Dashboard](Dashboard2.png)
 
 ### 🔹 Tab 3: Demographics Analysis
-![Dashboard](Dashboard 3.png)
+![Dashboard](Dashboard3.png)
 
 ---
 
 ## 📁 Project Files
 📄 **Full Project Report:**  
-👉 [Click here to view](Data Analyst Presentation.pdf)
-
+[Click here to view](Data%20Analyst%20Presentation.pdf)
 📸 **Dashboard Screenshots:**  
 Included in this repository
 
